@@ -1,10 +1,21 @@
 {
-  "author": "Carl Sutherland",
-  "name": "fetch-cli",
-  "main": "./lib/index",
-  "description": "FetchJS: API prototyping and specification tool.",
+  "name": "gretchen",
+  "description": "Gretchen: Mock data, API prototyping and specification tool.",
   "version": "0.0.3",
-  "repository": "https://github.com/HumbleSoftware/fetchjs.git",
+  "homepage": "https://github.com/humblesoftware/gretchen",
+  "main": "./lib/index",
+  "author": {
+    "name": "Carl Sutherland",
+    "email": "carl@humblesoftware.com",
+    "url": "http://humblesoftware.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/humblesoftware/gretchen.git"
+  },
+  "bugs": {
+    "url": "https://github.com/humblesoftware/gretchen/issues"
+  },
   "bin": {
     "fetch": "bin/fetch"
   },

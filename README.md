@@ -1,4 +1,4 @@
-# Fetch.js
+# Gretchen
 ----------
 
-Mock APIs on the client and the server.
+Mock data, API prototyping and specification tool.
